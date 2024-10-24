@@ -1,0 +1,13 @@
+img{
+    width: auto;
+    height: auto;
+    border-radius: 50%;
+}
+
+body{
+background-color: black;
+font-family: Arial, Helvetica, sans-serif;
+color: aliceblue;
+align-content: center;
+text-align: center;
+}
